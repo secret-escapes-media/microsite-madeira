@@ -1,0 +1,184 @@
+- id: natur
+  title: Section one
+  count: "1"
+  nav-title: Natur
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: one-first-poi
+        img: bg-img1
+        title: Laurissilva + Levadas
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-second-poi
+        img: bg-img2
+        title: Fest der Natur
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-third-poi
+        img: bg-img3
+        title: Canyoning
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-fourth-poi
+        img: bg-img4
+        title: Paragliding
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-fifth-poi
+        img: bg-img5
+        title: Traillauf
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: one-sixth-poi
+        img: bg-img6
+        title: Mountainbiken
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+
+
+
+
+################################################################################
+
+
+
+- id: meer
+  title: Section Two
+  nav-title: Meer
+  count: "2"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: two-first-poi
+        img: bg-img1
+        title: Natürliche Meeresschwimmbecken von Porto Moniz & Seixal
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-second-poi
+        img: bg-img2
+        title: Wassersportarten
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: two-third-poi
+        img: bg-img3
+        title: Wal- und Delphinbeobachtungen
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+
+################################################################################
+
+
+
+- id: lifestyle
+  title: Section Three
+  nav-title: Lifestyle
+  count: "3"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: three-first-poi
+        img: bg-img1
+        title: Gastronomie
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-second-poi
+        img: bg-img2
+        title: Madeira-Wein und Stickereien
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-third-poi
+        img: bg-img3
+        title: Bummel durch Funchal
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-fourth-poi
+        img: bg-img4
+        title: Mercado dos Lavradores
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-fifth-poi
+        img: bg-img5
+        title: Korbschlittenfahrt
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: three-sixth-poi
+        img: bg-img6
+        title: Veranstaltungen
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+
+
+################################################################################
+
+
+
+- id: porto-santo
+  title: Porto Santo
+  nav-title: "Porto Santo"
+  count: "4"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: four-first-poi
+        img: bg-img1
+        title: Langer "goldener" Strand
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: four-second-poi
+        img: bg-img2
+        title: Tauchen
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+
+      - id: four-third-poi
+        img: bg-img3
+        title: "Thalassotherapie & Sandbehandlungen"
+        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        link: "#poi-link"
+        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"

@@ -1,0 +1,72 @@
+// general styles for the project that wouldn't be a reuseable component
+
+
+/* ==========================================================================
+   Parallax & Backgrounds
+   ========================================================================== */
+
+.bv-parallax{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.bv-remove-bg{
+  background-image: none!important;
+}
+
+.bv-parallax{
+  background-attachment: scroll;
+  background-size: cover;
+  }
+
+}
+
+.bv-banner-out{}
+
+.bv-scroll-left1, .bv-scroll-left3, .bv-scroll-left4{
+  margin-left: -600px;
+  //opacity: 0;
+}
+.bv-scroll-left2 {
+  margin-right: -600px;
+  //opacity: 0;
+}
+
+
+
+/* ==========================================================================
+   Initial Letter
+========================================================================== */
+
+$font-size: 1.15rem;
+$cap-size: $font-size * 5.4;
+
+
+// Wrap in @supports with `not` operator
+@supports (not(initial-letter: 5)) and (not(-webkit-initial-letter: 5)) {
+    .bv-subhead::first-letter {
+        //color:  $bv-blue;
+        font-size: $cap-size;
+        float: left;
+        line-height: .7;
+        margin: 9px 15px 5px -3px;
+    }
+}
+
+// Progressive enhancements for supported browsers
+@supports (initial-letter: 5) or (-webkit-initial-letter: 5) {
+    .bv-subhead:nth-of-type(1)::first-letter {
+        -webkit-initial-letter: 3;
+        initial-letter: 3;
+
+    }
+}
+
+.bv-subhead::first-letter {
+    //color: $bv-blue;
+    font-family: $font-serif;
+}
