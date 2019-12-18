@@ -1,8 +1,8 @@
 - id: natur
-  title: Section one
+  title: Typische Landschaftsbilder
   count: "1"
   nav-title: Natur
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  description: "Madeira bezaubert mit herrlich medi&shy;terranem Klima und einer facetten&shy;reichen Flora und Fauna, die so in Europa einzigartig ist. Dies wird begünstigt durch die Nähe zum Golfstrom, der das türkis&shy;blaue Meerwasser rund um die Insel auf angenehme Temperaturen erwärmt. Der vulkanische Ursprung der Insel sorgt zusätzlich für eine einzig&shy;artige Kulisse, die es auf geführten Wander&shy;touren zu erkunden&nbsp;gilt."
   link: "#section-link"
 
   pois:
@@ -10,45 +10,39 @@
 
       - id: one-first-poi
         img: bg-img1
-        title: Laurissilva + Levadas
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Typische Landschaftsbilder
+        description: "Madeira verzaubert ihre Besucher mit üppiger Natur und beeindruckender Landschaft. Zu den Haupt&shy;attraktionen der Insel gehört der Laurissilva. Dieser Lorbeer&shy;wald mit dichtem Moos und großen, alten Bäumen gehört zum UNESCO-Welt&shy;kultur&shy;erbe. Ein weiteres Highlight sind die populären Wande&shy;rungen an den sogenannten Levadas. Diese Bewässerungs&shy;kanäle wurden vor mehreren 100 Jahren geschaffen, um große Mengen Wasser aus dem regenreichen Norden Madeiras in den Süden zu leiten. Heute können Sie Wande&shy;rungen entlang der Kanäle unternehmen und entdecken auf Ihren Routen atem&shy;beraubende Naturkulissen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: one-second-poi
         img: bg-img2
-        title: Fest der Natur
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Festival der Natur
+        description: "Das Festival der Natur auf Madeira ist ein echtes Erlebnis für große und kleine Abenteuer&shy;lustige. Bei diesem Fest geht es darum, die traumhafte Natur zu entdecken und sich auf sportliche Heraus&shy;forder&shy;ungen einzulassen. Auf der gesamten Insel, zu Land, im Gebirge und im Wasser können Sie an den kostenlosen Aktivi&shy;täten teilnehmen. Von Moun&shy;tainbike-Touren bis Surfen oder Canyoning ist das sportliche Angebot breit gefächert, sodass für jeden etwas dabei ist. Sie müssen nur noch Ihre Wahl treffen und können mit anderen Natur&shy;begeisterten ein ganz besonderes Erlebnis teilen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: one-third-poi
         img: bg-img3
-        title: Canyoning
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Action beim Canyoning
+        description: "Wenn Sie unberührte, ursprüngliche Natur auf Madeira erleben wollen und trotzdem nicht auf den Adrenalin&shy;kick verzichten möchten, wagen Sie sich auf eine Canyoning-Tour. In Gruppen erkunden Sie den Wasserlauf eines Baches oder Flusses. Hierbei müssen Sie die teilweise tiefen Wasser&shy;stellen oder Wasser&shy;fälle durch Klettern, Springen, spezielle Paddelarten oder sogar Schwimmen meistern und genießen dabei spektakuläre Ausblicke."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: one-fourth-poi
         img: bg-img4
-        title: Paragliding
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Über Madeira gleiten
+        description: "Sie wollten schon immer mal das beein&shy;druckende Bergmassiv, die raue Küste und die unglaub&shy;liche Pflanzen&shy;pracht der Insel von oben sehen? Aufgrund der morpho&shy;logischen Eigen&shy;schaften Madeiras finden Sie hier ideale Bedingungen zum Paragliding. Wagen Sie sich mit dem Gleit&shy;schirm in luftige Höhen und genießen Sie die einzigartige Aussicht. Auch Anfänger müssen sich nicht scheuen, sondern können diese einmalige Erfahrung bei einem Tandemflug machen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: one-fifth-poi
         img: bg-img5
-        title: Traillauf
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Querfeldein
+        description: Die gebirgige Beschaffen&shy;heit der Landschaft Madeiras macht die Insel zu einem beliebten Spot für Trailläufer. Drei verschiedene Wett&shy;kämpfe dieser Langstrecken&shy;laufart finden jähr&shy;lich hier statt und führen die Sportler quer durch die einzig&shy;artige Natur auf die höchsten Pfade, durch Flüsse und Wälder. Unter den Teil&shy;nehmern finden sich auch bekannte Namen aus dem nationalen und internationalen Trial-Sport.
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: one-sixth-poi
         img: bg-img6
-        title: Mountainbiken
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Madeira mit dem Fahrrad
+        description: "Madeira ist ein wahr&shy;haftes Wander&shy;paradies, doch auch auf zwei Rädern lässt sich die Flora und Fauna der Atlantik&shy;insel wunderbar erkunden. Mit dem Mountain&shy;bike fahren Sie auf unbefestigten Strecken inmitten des Berg&shy;massivs, genießen einzig&shy;artige Ausblicke auf die Felsen und Täler und fühlen sich voller Energie. Atmen Sie die klare Luft der Blumen&shy;insel ein und erleben Sie unvergess&shy;liche Ausflüge, an die Sie noch lange zurück&shy;denken werden."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
 
 
@@ -59,10 +53,10 @@
 
 
 - id: meer
-  title: Section Two
+  title: Die Weiten des&nbsp;Meeres
   nav-title: Meer
   count: "2"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  description: "Durch seine Insellage mitten im Atlantik ist der Ausblick auf den Ozean um Madeira schier unendlich. Mit seiner klaren, türkisblauen Farbe schimmert das Meer geheimnisvoll unter der Sonne und macht neugierig auf die vielen Geheimnisse, die unterhalb der Wasseroberfläche warten. Vor der Küste können Sie auf Bootsfahrt gehen und so die Insel aus einer völlig neuen Perspektive betrachten. Oder Sie wagen sich beim Tauchgang in die faszinierenden Tiefen zu einem der besten Tauchplätze&nbsp;Europas."
   link: "#section-link"
 
   pois:
@@ -70,24 +64,21 @@
 
       - id: two-first-poi
         img: bg-img1
-        title: Natürliche Meeresschwimmbecken von Porto Moniz & Seixal
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Natürliche Meerwasser-Pools
+        description: "Die natürlichen Meeres&shy;schwimmbecken von Porto Moniz und Seixal sind ein besonderes Highlight. Diese von Lava&shy;gestein umrahmten Salzwasser-Schwimmbecken werden auf natürliche Weise vom Meer gespeist. Sie befinden sich an der Nordküste Madeiras und bieten eine erstklassige Sicht über den Atlantik und die sattgrünen Landschaften der Blumeninsel. Entspannen Sie bei einem Bad in diesen einzigartigen Schwimm&shy;becken und fühlen Sie sich eins mit der Natur."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: two-second-poi
         img: bg-img2
-        title: Wassersportarten
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Aktivurlaub für Wassersportler
+        description: "Ein gemäßigtes Klima und eine Wasser&shy;temperatur von 17 - 24°C laden ganzjährig zu zahlreichen Aktivi&shy;täten im und auf dem Atlantik vor der Küste Madeiras ein. Im Norden finden Surfer ideale Bedingungen und womöglich die perfekte Welle. An der ruhigeren Südküste kommen dagegen Windsurfer und Stand-up-Paddler auf ihre Kosten. Ebenfalls ein beliebter Sport ist das Kanu&shy;fahren – auf eigene Faust oder bei geführten Touren. Beim Schnorcheln oder Tauchen vor der Küste entdecken Sie eine beein&shy;druckende Unter&shy;wasserwelt und sogar ein von Korallen bewachsenes Schiffswrack."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: two-third-poi
         img: bg-img3
-        title: Wal- und Delphinbeobachtungen
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Elegante Meeresriesen
+        description: "Dank einer Meerestiefe von mehr als 3.000 Metern beheimaten die Küsten&shy;gewässer vor Madeira eine vielfältige Fauna. Zahlreiche Fisch&shy;arten, Schild&shy;kröten und 28 verschiedene Wal- und Delfinarten tummeln sich in den Gewässern vor der Insel. Das ganze Jahr über können Sie hier zu einer Beobach&shy;tungs&shy;tour aufbrechen, um einige dieser eleganten Meeres&shy;säuger anzutreffen. Vor Madeira sind unter anderem Flecken&shy;delfine, Streifendelfine, Pottwale und Pilotwale heimisch."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
 
 ################################################################################
@@ -95,10 +86,10 @@
 
 
 - id: lifestyle
-  title: Section Three
+  title: Die bunten Traditionen Madeiras
   nav-title: Lifestyle
   count: "3"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  description: "Tauchen Sie auf den Madeira-Inseln ein in eine warmherzige, weltoffene Kultur. Die Menschen hier versprühen wahre Lebensfreude und möchten diese auch gern mit ihren Besuchern teilen. Das ganze Jahr über finden Festivals und Veranstaltungen statt, die die reiche Kultur der Madeirer feiern. Erleben Sie die Hauptstadt Funchal mit ihren Sehenswürdigkeiten und dem bunten Treiben in den Straßen, kosten Sie von der traditionellen Küche und genießen Sie mit einem Gläschen Madeira-Wein das süße&nbsp;Leben."
   link: "#section-link"
 
   pois:
@@ -106,45 +97,39 @@
 
       - id: three-first-poi
         img: bg-img1
-        title: Gastronomie
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Genuss für die Seele
+        description: "In der heimischen Küche Madeiras werden Sie die herzliche Seele und die Gastfreundschaft der Archipel&shy;bewohner herausschmecken. Dank der Nähe zum Meer erwarten Sie auf den Inseln erstklassige Fisch&shy;gerichte und Meeres&shy;früchte, wie gegrillte Napf&shy;schnecken, Thunfisch&shy;steaks und madeirensische Schwertfischfilets. Pro&shy;bieren Sie den traditionellen “Espatada“, ein Rin&shy;dfleisch&shy;spieß aus Lorbeer&shy;holz mit frittiertem Mais und dazu das typische “Bolodo-Caco“, ein Brot mit Knob&shy;lauch&shy;butter. Unverzichtbar ist auch der sündhaft köstliche, hausgemachte Honigkuchen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: three-second-poi
         img: bg-img2
-        title: Madeira-Wein und Stickereien
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: "Typisch: Wein & Kunsthandwerk"
+        description: "Begeben Sie sich auf Madeira auf die Spuren der traditionellen Hand&shy;werks&shy;künste. Madeira-Stickerei ist eine Jahr&shy;hunderte alte Form des Kunst&shy;hand&shy;werks, die sich durch ihre hohe Qualität und beein&shy;druckenden Details aus&shy;zeich&shy;net. Stoffe wie Leinen oder Seide werden mit modernen und traditio&shy;nellen Mustern bestickt. Auch die Tradition des Madeira-Weins geht bereits über 500 Jahre zurück. Der Likörwein wird auf den Berg&shy;hängen der Insel angebaut und zeichnet sich durch sein besonderes Aroma und seinen einzig&shy;artigen Charakter aus, für den er auf der ganzen Welt beliebt ist."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: three-third-poi
         img: bg-img3
         title: Bummel durch Funchal
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        description: "Funchal, die Hauptstadt der Inselgruppe, liegt in einer Bucht an der Südküste der Insel Madeira. Ihren Namen verdankt die Stadt dem Fenchel, der zu Beginn der Besiedlung als wildes Gewächs überall auf der Insel zu finden war. Funchal ist das größte touristische, gewerbliche und kulturelle Zentrum des gesamten Archipels. Hier erwartet Sie ein vielseitiges Angebot an Freizeit&shy;aktivitäten, von Museen und Monumenten, über Ausflüge zu den fantas&shy;tischen Gärten, bis hin zu einem Spaziergang am Yachthafen. Außerdem finden Sie in Funchal ein buntes Nacht&shy;leben in den zahlreichen Restaurants, Bars und Clubs."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: three-fourth-poi
         img: bg-img4
-        title: Mercado dos Lavradores
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Funchals Bauernmarkt
+        description: "Der Bauernmarkt Mercado dos Lavradores ist eines der Marken&shy;zeichen von Funchal und befindet sich inmitten des historischen Zentrums. Das Markt&shy;gebäude wurde in einer stilistischen Mischung aus Art déco und Modernismus entworfen und ist einen Besuch wert. Lassen Sie sich von den Aromen der Inseln verzaubern, kosten Sie von den exotischen Früchten und bestaunen Sie das reiche Angebot an wunderschönen Blumen, Fleisch, Fisch, Gemüse und regionalen Gewürzen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: three-fifth-poi
         img: bg-img5
-        title: Korbschlittenfahrt
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Wilde Fahrt im Korb
+        description: "Wenn Sie bei einem Besuch in Madeiras Hauptstadt ein ganz besonderes Erlebnis wagen möchten, dann begeben Sie sich auf eine Fahrt mit dem Korb&shy;schlitten. Die 'Carros de Cesto' werden aus Holz und Weiden&shy;ruten in Hand&shy;arbeit gefertigt und von den soge&shy;nannten 'Carreiros', zwei in Trachten geklei&shy;deten Männern, gesteuert. Im Ortsteil Monte besteigen Sie das traditio&shy;nelle Gefährt und begeben sich einen Abhang herunter auf eine wilde Fahrt. Ein so einzig&shy;artiges Erlebnis dürfen Sie auf keinen Fall verpassen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: three-sixth-poi
         img: bg-img6
-        title: Veranstaltungen
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Das Leben feiern
+        description: "Besuchen Sie den Karneval Anfang des Jahres mit knallbunten Kostümen und weltbekannten Paraden. Das Blumenfest feiert den Frühling und die üppige Blütezeit. Die Straßen werden mit Blumen geschmückt und überall finden Konzerte statt. Mit dem Festival do Atlântico wird auf Madeira mit pyromusikalischen Shows der Sommer eingeläutet. Zur Weinernte im Spätherbst findet mit allerlei Festivitäten und Aktionen das Weinfest statt. Auch zur Weihnachts- und Silvesterzeit verleihen die Madeirer ihrer Insel einen besonderen Glanz und das Feuerwerk gehört zu den größten der Welt."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
 
 
@@ -153,10 +138,10 @@
 
 
 - id: porto-santo
-  title: Porto Santo
+  title: Strandparadies Porto&nbsp;Santo
   nav-title: "Porto Santo"
   count: "4"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
+  description: "Porto Santo ist die zweitgrößte der zu Madeira gehörenden Inseln und befindet sich etwa 50 km nordöstlich vor der Hauptinsel. Dieses paradiesische Eiland ist vor allem für seinen wunderschönen, langen Sandstrand bekannt. Die schlichte Schönheit der Landschaft Porto Santos lädt aber auch zu Wanderungen oder Radtouren&nbsp;ein."
   link: "#section-link"
 
   pois:
@@ -164,21 +149,18 @@
 
       - id: four-first-poi
         img: bg-img1
-        title: Langer "goldener" Strand
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Der goldene Strand
+        description: "Umspült vom türkisblauen, kristallklaren Meer finden Sie auf Porto Santo ein kleines Paradies für Sonnenanbeter. Der etwa 9 km lange, goldene Sandstrand nimmt fast die gesamte Südküste der kleinen Insel ein und wurde bereits zum besten Dünenstrand Portugals gewählt. Hier können Sie das ganze Jahr über schönes Wetter, die Sonne sowie das Meeresrauschen genießen und einfach mal die Seele baumeln lassen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: four-second-poi
         img: bg-img2
-        title: Tauchen
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: Bunte Unterwasserwelt
+        description: "Porto Santos Gewässer sind wegen ihrer Sauberkeit, der angenehmen Temperatur und des klaren Wassers beliebt bei Tauchern. Hier können Sie eine hervorragende Sicht von bis zu 40 m Tiefe erleben. Zu den beliebtesten Spots gehören die gesunkenen Schiffe Madeirense und Corveta General Pereira d’Eça, die abgesenkt wurden, um künst&shy;liche Riffe zu schaffen. Hier tummelt sich eine arten&shy;reiche Mee&shy;res&shy;fauna mit dunklen Zacken&shy;barschen, Salemas, Königs&shy;fischen oder Amberjacks."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
 
       - id: four-third-poi
         img: bg-img3
-        title: "Thalassotherapie & Sandbehandlungen"
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+        title: "Heilsame Natur"
+        description: "Neben seinem schönen Strand ist Porto Santo aber auch als Wellness- und Erholungsort bekannt. Der karbonat&shy;haltige Sand hat erwie&shy;sene, thera&shy;peu&shy;tische Eigen&shy;schaften. So soll sich ein Aufenthalt hier positiv auf orthopädische und rheumatische Probleme auswirken. Auch das Meer&shy;wasser von Porto Santo wird wegen seines hohen Anteils an Strontium, Chrom und Jod zu Therapie&shy;zwecken zum Beispiel in der Thalasso&shy;therapie verwendet. Sogar das Trink&shy;wasser dieser Insel ist reich an gesundheits&shy;fördernden Bestandteilen."
         link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"

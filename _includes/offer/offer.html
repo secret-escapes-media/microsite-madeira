@@ -1,16 +1,17 @@
-<div class="offer shadow">
 
-  <a class="offer__link" href="{{offer.link}}"><span class="btn btn--orange">View Offer</span></a>
+<div class="offer">
 
-  {% if offer.image %}
-    <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')"></div>
-  {% else %}
-    <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/offers/{{offer.id}}.jpg')"></div>
-  {% endif %}
+  <a class="offer__link" href="{{offer.link}}" target="_blank"><span class="btn btn--orange">Zum Angebot</span></a>
 
-  <div class="offer__content">
+  <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')">
+    {% if offer.tag  %}
+      <img class="flight-tag" src="{{site.img}}/icons/tag-{{offer.tag}}.png">
+    {% endif %}
+  </div>
 
-    <h3 class="title title--xs">{{offer.title}}</h3>
+  <div class="offer__content text--left">
+
+    <h3 class="sub-title sub-title--sm text--darkblue">{{offer.title}}</h3>
     <h4 class="offer__location">{{offer.location}}</h4>
     <div class="offer__description">{{offer.description}}</div>
 
@@ -20,17 +21,19 @@
 
         {% if offer.saved %}
           <div class="offer__saved">
-            <div class="offer__saved-label">Save up to&nbsp;</div>
-            <div class="offer__saved-percent">{{offer.saved}}%</div>
+            <div class="offer__saved-label">Sparen Sie bis zu</div>
+            <div class="offer__saved-percent sub-title sub-title--sm ">{{offer.saved}}%</div>
           </div>
           <div class="offer__separator"></div>
         {% endif %}
 
         <div class="offer__details">
-          <div>From <span class="offer__price">£{{offer.price}}</span></div>
-          <div class="text--sm">{{offer.price-description}}</div>
-          <div class="js-offer-expires text--sm" data-expires="{{offer.expires}}"></div>
-        </div>
+            <div>Ab <span class="offer__price">{{offer.price}}€</span></div>
+            <div class="text--sm">{{offer.price-description}}</div>
+            {% if offer.expires  %}
+              <div style="display: none;" class="js-offer-expires text--sm" data-expires="{{offer.expires}}"></div>
+            {% endif %}
+          </div>
 
       </div>
       <div class="offer__bottom-right">
@@ -42,10 +45,3 @@
   </div>
 
 </div>
-
-
-
-
-
-
-

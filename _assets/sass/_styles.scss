@@ -43,7 +43,7 @@
 ========================================================================== */
 
 $font-size: 1.15rem;
-$cap-size: $font-size * 5.4;
+$cap-size: $font-size * 4;
 
 
 // Wrap in @supports with `not` operator
@@ -69,4 +69,20 @@ $cap-size: $font-size * 5.4;
 .bv-subhead::first-letter {
     //color: $bv-blue;
     font-family: $font-serif;
+}
+
+
+/*************** offer tag for included tag *******************/
+.flight-tag {
+  position: absolute;
+  top: $s-2;
+  left: $s-2;
+  display: block;
+  //width: 50%;
+  @include bp($sm){
+    top: $s0;
+    left: $s0;
+    height: 35px;
+    width: auto;
+  }
 }

@@ -3,13 +3,14 @@ layout: single-page
 id: overview
 nav: true
 nav-order: 1
-title: Overview
+title: Blumeninsel mit einzigartiger Natur
 
-intro: "Portugal hat viele Gesichter: Neben rauen Küstenabschnitten im Süden bis hin zur grünen Dünen&shy;landschaft im Norden. Die Lage am Atlantik hat das Land der Eroberer nicht nur geschichtlich geprägt. Unberührte wilde Küsten und geheimnisvolle Städte, fernab der Touristenpfade, ziehen einen unweigerlich in den Bann. Begegnen Sie auf den Vulkaninseln der Azoren dem ursprünglichen Charme des Seefahrer-Erbes und wandeln auf Madeira durch die traumhafte Natur. Folgen Sie Ihrem Gusto und verwöhnen Ihren Gaumen mit regionalen Köstlich&shy;keiten und Spezialitäten. Wer einmal in Portugal war, kommt immer&nbsp;wieder!"
+intro-title: "Einzigartige Natur auf Madeira"
+intro: "Vor der Nordwestküste Afrikas liegt die Inselgruppe Madeira mitten im Atlantik. Neben der gleich&shy;namigen Hauptinsel gehören auch Porto Santo, Ilhas Desertas und Ilhas Selvagens dazu. Die Blumen&shy;insel Madeira bezaubert dank ihrer Nähe zum Golfstrom durch ein ganzjährig mildes, medi&shy;terranes Klima und eine einzigartige Flora und Fauna."
 
 banner:
   title: Madeira
-  title-sub: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  title-sup: Einzigartige Erlebnisse auf der immergrünen&nbsp;Insel
 
 
 #primary-cta:

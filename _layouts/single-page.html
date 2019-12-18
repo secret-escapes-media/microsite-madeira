@@ -11,10 +11,11 @@
 
     {% include page/banner.html %}
 
-    <div class="vpad--xxl bg--bv-beige">
+    <div class="vpad--xxl bg--bv-lightgrey ">
       <div class="container">
         <div class="width width--lg">
-          <div class="text text--xl text--white text--justify"><p class="bv-subhead">{{page.intro}}</p></div>
+
+          <div class="text text--xxl text--serif text--justify"><p>{{page.intro}}</p></div>
         </div>
       </div>
     </div>
@@ -25,12 +26,12 @@
           {% for section in site.data.sections %}
 
                 <div id="{{section.id}}"  class="bv-section-bg js-nav-section">
-                  <div class="bv-parallax vpad--xxl "  style="background-image: url('{{site.img}}/content/{{section.id}}/hero.jpg'); {{section.bg-pos}}">
+                  <div class="bv-parallax vpad--xl "  style="background-image: url('{{site.img}}/content/{{section.id}}/hero.jpg'); {{section.bg-pos}}">
                     <div class="container text--white">
                       <div class="space--xxxl"></div>
                         <div class="row row--justify row--xl-4-4-4 row--gutters ">
-                          <div class="col--xl-8 boxpad--xl text--xxxl text--normal">
-                          <div class="serif-title text--xl text--bold bv-title-divider">{{section.title}}</div>
+                          <div class="col--xl-7 boxpad--xl text--xxl text--normal">
+                          <div class="title title--xl text--serif text--bold ">{{section.title}}</div>
                           <div class="space--sm "></div>
                           <p>{{section.description}}</p>
                           <div class="space--xxl"></div>
@@ -43,10 +44,10 @@
                   <div class="container vpad--lg">
                       <div class="row row--xl-4-4-4 row--lg-6-6 row--gutters " >
                         {% for poi in section.pois.items %}
-                        <div class="col text--normal text text--justify">
+                        <div class="col text--normal text text--xl text--justify">
                           <div class="bg-img bg--white bg-img--4-3" style="background-image:url({{site.img}}/content/{{section.id}}/{{poi.img}}.jpg);"> </div>
                           <div class="space--md"></div>
-                          <h5 class="title title--xs text--left text--blue ">{{poi.title}}</h5>
+                          <h5 class="title title--xs text--left text--bold ">{{poi.title}}</h5>
                           <div class="space--xs"></div>
                           <div>{{poi.description}}</div>
                         </div>
@@ -59,63 +60,22 @@
 
           {% endfor %}
 
-          <!-- loops through section file for page content
-          {% for section in site.data.sections %}
-            <div id="{{section.id}}" class="js-nav-section vpad--xxxxl bg__fixed">
-              <div class="bg__fixed-wrap">
-                <div class="bg__fixed-img" style="background-image: url('{{site.img}}/content/{{section.id}}/bg.jpg');"></div>
-              </div>
-              <div class="container">
 
-                <div class="row row--valign-center row--gutters-lg row--xxl-6-6">
-                  <div class="col">
-                    <div class="title title--xxl">{{section.title}}</div>
-                    <p class="text--xxl">{{section.description}}</p>
-                    <div class="space--sm"></div>
-                    <a href="{{section.link}}" class="btn btn--outline btn--outline-turquoise">Find Out More</a>
-                  </div>
-                  <div class="col">
-                    <div class="bg-img bg-img--1-1 bg-img--md-3-2 bg-img--xxl-1-1" style="background-image: url('{{site.img}}/content/{{section.id}}/feature.jpg');">
-                      <div class="bg-img__attribution js-image-attribution">
-                        <a href="#photo-link">Photo</a> by username / <a rel="nofollow" href="https://creativecommons.org/licenses/by/2.0/">CC BY</a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="space--lg"></div>
-
-                <div class="row row--md-6-6 row--xxl-3-3-3-3">
-                  {% for poi in section.pois.items %}
-                  <div class="col">
-                    <div class="bg-img bg-img--16-9 bg-img--md-1-1 bg-img--lg-4-3 bg-img--xxl-2-3 shadow" style="background-image: url('{{site.img}}/content/{{section.id}}/pois/{{poi.id}}.jpg');">
-                      <a id="track-poi-{{poi.id}}" href="#" class="bg-img__link js-open-modal" data-open-modal="{{poi.id}}"></a>
-                      <div class="bg-img__bg-overlay"></div>
-                      <div class="bg-img__content">
-                        <div class="title title--sm">{{poi.title}}</div>
-                      </div>
-                    </div>
-                  </div>
-                  {% endfor %}
-                </div>
-
-              </div>
-            </div>
-          {% endfor %}-->
   </div>
 
           <!-- Offers section -->
-          <div class="bg--light">
-            <div class="container vpad--lg ">
+      <div class="bg--light">
+        <div class="container vpad--lg ">
           <div id="offers" class="js-nav-section">
             <div class="space--xl"></div>
-            <div class="serif-title text--blue text--xl text--center">Angebote</div>
-            <div class="space--xxl"></div>
-            {% include offer/all-offers.html %}
-            <div class="space--xxxl"></div>
+            <div class="title text--serif title--xl text--center">Angebote</div>
+            <div class="space--xs"></div>
           </div>
-  </div>
-  {% include page/promo-offers.html %}
+      </div>
+
+    {% include offer/all-offers.html %}
+      <div class="space--xxxl"></div>
+    {% include page/promo-offers.html %}
         </div>
 
     {% include page/footer.html %}
