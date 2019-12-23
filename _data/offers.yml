@@ -1,90 +1,13 @@
-
-- title: Den Norden und Süden Madeiras entdecken
-  location: Rundreise, Portugal
-  description: Fahren Sie entlang der traumhaften Küstenstraße Madeiras von Süden nach Norden. Erleben Sie Portugals Trauminsel inkl. Frühstück, Mietwagen und Flüge!
-  price: 669
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved:
-  tag: config-flights
-  expires:
-  image: https://d2g6qre7voj6kv.cloudfront.net/webRedirects/121/d4121061_a142_4985_86b9_d491978af129.jpg
-  link: https://www.secretescapes.de/entlang-der-kueste-von-madeira-de/sale-wrd
-
-- title: Die einzigartige Schönheit Madeiras
-  location:  Madeira, Portugal
-  description: Luxus-Auszeit für die Seele – inkl. Flügen, Privattransfers & Halbpension
-  price: 569
-  price-description: pro Person basierend auf 2 Personen für 5 Nächte
-  saved:
-  tag: config-flights
-  expires:
-  image: https://d2g6qre7voj6kv.cloudfront.net/webRedirects/240/53f81fa3_6af5_429f_bb89_5fee43fb8c93.jpg
-  link: https://www.secretescapes.de/die-einzigartige-schoenheit-madeiras/sale-wrd
-
-- title: Naturidylle & Luxus auf Madeira
-  location: Hotel Meliá Madeira Mare, Funchal, Madeira, Portugal
-  description: Portugiesisches Inselleben – inkl. Flügen, Transfer, Halbpension & Extras
-  price: 633
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved: 12
-  tag: flights
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105424/90cb0a06_041a_4aae_b8d6_52db11768269.jpg
-  link: https://www.secretescapes.de/naturidylle-and-luxus-auf-madeira-hotel-melia-madeira-mare-funchal-madeira-portugal2-wrdpkg/sale
-
-
-- title: "Bestseller: Inselduo Madeira & Porto Santo"
-  location: Madeira & Porto Santo – Portugal
-  description: Exklusive Vielfalt im Atlantik – inkl. Flügen, Transfers, Halbpension, opt. Ausflügen & Extras
-  price: 999
-  price-description: pro Person basierend auf 2 Personen für 14 Nächte
-  saved: 19
-  tag: flights
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/90163/66d68d88_4b03_4862_bb17_1e35c7b560f0.jpg
-  link: https://www.secretescapes.de/bestseller-inselduo-madeira-and-porto-santo-madeira-and-porto-santo-portugal/sale
-
-- title: Wellness-Genuss auf der Blumeninsel Madeira
-  location: Quinta Splendida Wellness & Botanical Garden, Madeira, Portugal
-  description: Madeira erleben – inkl. Flügen, Transfers, Halbpension & Extras
-  price: 633
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved: 21
-  tag: flights
-  expires: 2019/12/16
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101803/5a3a802f_f1d1_4b2b_a575_cdc70346e6c2.jpg
-  link: https://www.secretescapes.de/wellness-genuss-auf-der-blumeninsel-madeira-quinta-splendida-wellness-and-botanical-garden-madeira-portugal-wrdpkg/sale
-
-- title: "Neueröffnung: Designjuwel an Madeiras Küste"
-  location: Caju Le Petit Hotel, Funchal, Madeira, Portugal
-  description: Sonne satt, Hauptstadtvibes & hochkarätiges Interieur – inkl. Frühstück & Spa-Ermäßigung
-  price: 109
-  price-description: pro Zimmer pro Nacht
-  saved: 25
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105590/d2ef58b1_5db4_439c_bce2_98b55a288617.jpg?auto=format,compress
-  link: https://www.secretescapes.de/neueroffnung-designjuwel-an-madeiras-kueste-caju-le-petit-hotel-funchal-madeira-portugal/sale
-
 - title: Auszeit im Strandhotel auf Madeira
   location: Calheta Beach Resort, Estreito da Calheta, Madeira, Portugal
   description: Portugals bezaubernde Blumeninsel – inkl. Flügen, Privattransfers & All-inclusive
-  price: 579
+  price: 599
   price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 24
-  tag: flights
-  expires: 2019/12/23
+  expires: 2019/12/30
   image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/1023/087cfcc0_c65f_4847_801a_9b9012c4dbff.jpg?auto=format,compress
   link: https://www.secretescapes.de/calheta-beach-all-inclusive-estreito-da-calheta-portugal/sale-ihp
-
-- title: 5*-Auszeit auf Madeira
-  location: Quinta Das Vistas Palace Gardens, Funchal, Madeira, Portugal
-  description: Exklusive Doppelzimmer hoch über dem Atlantik – inkl. Frühstück oder Halbpension & Spa-Zugang
-  price: 84
-  price-description: pro Zimmer pro Nacht
-  saved: 65
-  expires: 2019/12/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/78522/2e2b3e5f_a2e0_4274_9384_b2c6a44b7b0b.jpg?auto=format,compress
-  link: https://www.secretescapes.de/5-star-auszeit-auf-madeira-quinta-das-vistas-palace-gardens-funchal-madeira-portugal-de/sale
+  tag: flights
 
 - title: Suiten-Urlaub auf der Blumeninsel Madeira
   location: Terrace Mar Suite Hotel, Funchal, Madeira, Portugal
@@ -92,10 +15,20 @@
   price: 537
   price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 29
-  tag: flights
-  expires: 2019/12/23
+  expires: 2019/12/30
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/102654/e97d0a23_b734_4485_85de_fae8b0c3970e.jpg?auto=format,compress
   link: https://www.secretescapes.de/suiten-urlaub-auf-der-blumeninsel-madeira-terrace-mar-suite-hotel-funchal-madeira-portugal-1/sale
+  tag: flights
+
+- title: 5*-Auszeit auf Madeira
+  location: Quinta Das Vistas Palace Gardens, Funchal, Madeira, Portugal
+  description: Exklusive Doppelzimmer hoch über dem Atlantik – inkl. Frühstück oder Halbpension & Spa-Zugang
+  price: 84
+  price-description: pro Zimmer pro Nacht
+  saved: 65
+  expires: 2019/12/30
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/78522/2e2b3e5f_a2e0_4274_9384_b2c6a44b7b0b.jpg?auto=format,compress
+  link: https://www.secretescapes.de/5-star-auszeit-auf-madeira-quinta-das-vistas-palace-gardens-funchal-madeira-portugal-de/sale
 
 - title: Idyllisches Madeira für Naturverbundene
   location: Hotel Quinta do Monte, Funchal, Madeira, Portugal
@@ -106,3 +39,21 @@
   expires: 2020/01/13
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/64631/42ca5f38_7be8_4fef_b942_bb1fb31ef28c.jpg?auto=format,compress
   link: https://www.secretescapes.de/idyllisches-madeira-fuer-naturverbundene-hotel-quinta-do-monte-funchal-madeira-portugal/sale
+
+- title: Den Norden und Süden Madeiras entdecken
+  location: Portugal
+  description: Fahren Sie entlang der traumhaften Küstenstraße Madeiras von Süden nach Norden. Erleben Sie Portugals Trauminsel inkl. Frühstück, Mietwagen und Flüge!
+  price: 669
+  price-description: pro Person ab basierend auf 2 Personen
+  image: https://travelbird-images.imgix.net/93/91/9391d269c580b9ed829d60b90f1ac824?auto=compress&w=800
+  link: https://de.sales.secretescapes.com/114389/entlang-der-kueste-von-madeira-de/
+  tag: config-flights
+
+- title: Die einzigartige Schönheit Madeiras
+  location: Portugal
+  description: 5, 7, 10 oder 14 Nächte mit Frühstück oder Halbpension, Mietwagen, Flügen und Ausflug auf Madeira
+  price: 579
+  price-description: pro Person ab basierend auf 2 Personen
+  image: https://travelbird-images.imgix.net/ea/4d/ea4d53805a95b008ad9437112e854c2e?auto=compress&w=800
+  link: https://de.sales.secretescapes.com/115006/die-einzigartige-schoenheit-madeiras/
+  tag: config-flights
